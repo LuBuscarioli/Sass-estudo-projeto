@@ -149,7 +149,7 @@ footer {
   border-top: 2px solid #FF7B54;
   margin-top: 1rem;
   padding: 1.2rem;
-  background: linear-gradient(to left, #FF7B54, #FFD56F, #939B62);
+  background: linear-gradient(to left, #939B62, #FFD56F, #FF7B54);
 }
 footer i {
   color: red;
